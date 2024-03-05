@@ -1,5 +1,5 @@
 # CtraderBotModules
-A list of ctrade module for models,  strategies, and analysis tools
+A list of ctrade module for models,  strategies, and analysis tools for *educational purpose only*
 
 # cTraderBots
 cTrader bots for automation tasks in trading (place pending orders and manage risk) on FX and commmodities market.
